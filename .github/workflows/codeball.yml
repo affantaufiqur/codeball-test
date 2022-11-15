@@ -16,6 +16,5 @@ jobs:
           approvePullRequests: 'true'
           labelPullRequestsWhenApproved: 'true'
           labelPullRequestsWhenReviewNeeded: 'true'
-          failJobsWhenReviewNeeded: 'true'
           labelPullRequestsWhenCarefulReviewNeeded: 'true'
           codeSuggestionsFromComments: 'true'
